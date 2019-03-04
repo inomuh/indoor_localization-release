@@ -1,7 +1,0 @@
-ros-kinetic-indoor-localization (0.0.1-0xenial) xenial; urgency=high
-
-  * Update .travis.yml
-
- -- Elcin Erdogan <elcin.erdogan@inovasyonmuhendislik.com>  Mon, 25 Feb 2019 21:00:00 -0000
-
-
