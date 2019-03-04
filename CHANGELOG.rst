@@ -2,6 +2,6 @@
 Changelog for package indoor_localization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.1 (2019-02-26)
+0.1.0 (2019-03-01)
 -------------------
-* Update .travis.yml
+* first public release
