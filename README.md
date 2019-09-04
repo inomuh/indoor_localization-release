@@ -1,3 +1,26 @@
+## indoor_localization (kinetic) - 1.0.0-1
+
+The packages in the `indoor_localization` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic indoor_localization --edit` on `Wed, 04 Sep 2019 11:22:22 -0000`
+
+The `indoor_localization` package was released.
+
+Version of package(s) in repository `indoor_localization`:
+
+- upstream repository: https://github.com/inomuh/indoor_localization.git
+- release repository: https://github.com/inomuh/indoor_localization-release.git
+- rosdistro version: `0.1.0-1`
+- old version: `0.1.0-1`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## indoor_localization (kinetic) - 0.1.0-1
 
 The packages in the `indoor_localization` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic indoor_localization --edit` on `Mon, 11 Mar 2019 13:41:35 -0000`
