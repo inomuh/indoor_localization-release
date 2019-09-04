@@ -1,0 +1,17 @@
+ros-kinetic-indoor-localization (1.0.0-1xenial) xenial; urgency=high
+
+  * the latest version of the scripts (anchor_selection_node.py, positioning_node.py, error_estimation_node.py and kpi_calculation_node.py) are loaded.
+  * the latest version of the msg files are loaded.
+  * unit test scripts are loaded.
+  * localization_params.yaml updated, region_params.yaml is loaded.
+  * .launch files are updated and new ones are added.
+
+ -- Elcin Erdogan <elcin.erdogan@inovasyonmuhendislik.com>  Mon, 02 Sep 2019 21:00:00 -0000
+
+ros-kinetic-indoor-localization (0.1.0-1xenial) xenial; urgency=high
+
+  * first public release
+
+ -- Elcin Erdogan <elcin.erdogan@inovasyonmuhendislik.com>  Thu, 28 Feb 2019 21:00:00 -0000
+
+
