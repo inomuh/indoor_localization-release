@@ -12,9 +12,9 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: kinetic-devel
+    devel_branch: kinc-devel
     last_version: 0.1.0
-    name: indoor_localization
+    name: oor_localization
     patches: null
     release_inc: '1'
     release_repo_url: null
@@ -22,4 +22,4 @@ tracks:
     ros_distro: kinetic
     vcs_type: git
     vcs_uri: https://github.com/inomuh/indoor_localization.git
-    version: :{auto}
+    version: 1.0.0
